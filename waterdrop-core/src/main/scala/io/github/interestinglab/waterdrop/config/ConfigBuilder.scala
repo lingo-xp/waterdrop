@@ -10,7 +10,6 @@ import io.github.interestinglab.waterdrop.flink.FlinkEnvironment
 import io.github.interestinglab.waterdrop.flink.stream.FlinkStreamExecution
 import io.github.interestinglab.waterdrop.spark.SparkEnvironment
 import io.github.interestinglab.waterdrop.spark.batch.SparkBatchExecution
-
 import scala.collection.JavaConversions._
 import scala.language.reflectiveCalls
 
