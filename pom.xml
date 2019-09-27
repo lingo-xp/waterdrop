@@ -16,6 +16,7 @@
         <module>waterdrop-flink-plugins</module>
         <module>waterdrop-spark-api</module>
         <module>waterdrop-spark-plugins</module>
+        <module>waterdrop-dist</module>
     </modules>
 
     <properties>

@@ -23,6 +23,7 @@
         <module>plugin-flink-sink-file</module>
         <module>plugin-flink-sink-jdbc</module>
         <module>plugin-flink-sink-kafka</module>
+        <module>plugin-flink-sink-console</module>
         <module>plugin-flink-source-fake</module>
         <module>plugin-flink-source-kafka</module>
         <module>plugin-flink-source-file</module>
