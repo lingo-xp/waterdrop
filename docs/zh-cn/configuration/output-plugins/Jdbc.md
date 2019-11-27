@@ -57,7 +57,6 @@ JDBC连接的URL。参考一个案例: `jdbc:postgresql://localhost/test`
 
 输出到jdbc的模式，支持两种模式`replace|insert ignore`,`insert ignore`如果主键重复会丢弃新数据不会报错，`replace`新数据会替代旧数据
 
-用户名
 
 ##### common options [string]
 
